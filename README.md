@@ -87,7 +87,7 @@
       * Use model predict result to control web browser to youtube player
       * Following path [Demo](./Simple_Demo/Demo.ipynb)
 
-    2. Demo_M
+    3. Demo_M
       * Automatic open web browser and go to youtube player(Press 'S' to start open web browser)
       * Connect between webcam capture, model predict(Press 'P' to start predict)
       * Use model predict result to control web browser to youtube player
