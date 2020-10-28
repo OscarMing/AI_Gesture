@@ -8,7 +8,8 @@
     * Use CUDA 10.1 and Cudnn 7.6.5. 
 
 ### 2. DEMO
-
+  * video capture ref
+    * https://dotblogs.com.tw/shaynling/2017/12/28/091936
   * Simple_Demo
     * [Simple_Demo](./Simple_Demo.ipynb)
     * simple demo with webcam capture, model predict and keyboard trigger
