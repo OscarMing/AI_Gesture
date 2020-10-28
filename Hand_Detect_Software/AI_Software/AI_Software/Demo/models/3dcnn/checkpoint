@@ -1,0 +1,4 @@
+model_checkpoint_path: "3DCNN_Model-29"
+all_model_checkpoint_paths: "3DCNN_Model-27"
+all_model_checkpoint_paths: "3DCNN_Model-28"
+all_model_checkpoint_paths: "3DCNN_Model-29"
