@@ -66,7 +66,7 @@
     * Real Data validation => '/list/c3d_test005.txt'
     * Following path [./Model_Testing/K_3DCNN_Validate.ipynb](./Model_Testing/K_3DCNN_Validate.ipynb)
 
-## Simple Demo
+## Simple Demo -> Author : 林銘彥 Hugo Lin
 
 1. INFO
   * "model" folder include a model file.
@@ -78,16 +78,23 @@
 
 2. DEMO
     1. Simple_Demo
-      * simple demo with webcam capture, model predict and keyboard trigger
+      * Simple demo with webcam capture, model predict and keyboard trigger
       * Following path [Simple_Demo](./Simple_Demo/Simple_Demo.ipynb)
 
     2. Demo
-      * automatic open web browser and go to youtube player(Press 'S' to start open web browser)
-      * connect between webcam capture, model predict(Press 'P' to start predict)
-      * use model predict result to control web browser to youtube player
+      * Automatic open web browser and go to youtube player(Press 'S' to start open web browser)
+      * Connect between webcam capture, model predict(Press 'P' to start predict)
+      * Use model predict result to control web browser to youtube player
       * Following path [Demo](./Simple_Demo/Demo.ipynb)
+
+    2. Demo_M
+      * Automatic open web browser and go to youtube player(Press 'S' to start open web browser)
+      * Connect between webcam capture, model predict(Press 'P' to start predict)
+      * Use model predict result to control web browser to youtube player
+      * Following path [Demo_M](./Simple_Demo/Demo_M.ipynb)
+      * Use multiple model for prediction 
       
-## Hand_Detect_Software
+## Hand_Detect_Software -> Author : 蔡明佑
 ### 以下為軟體操作說明
 * 1. Python環境設置
 * 2. App 使用說明
